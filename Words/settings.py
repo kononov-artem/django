@@ -29,7 +29,7 @@ SECRET_KEY = 'rd2p4)cty!+_rz$izgqg5^r8@$%0@ui0$sce$s2^2wuw_3zgpj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'artem33544.pythonanywhere.com']
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_HEADERS = (
